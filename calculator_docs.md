@@ -3,15 +3,19 @@
 ## Основные функции
 
 ### Арифметические операции
+<div class="function">
 - **Сложение (+)**: Нажмите кнопку "+" для сложения чисел
 - **Вычитание (-)**: Нажмите кнопку "-" для вычитания чисел
 - **Умножение (×)**: Нажмите кнопку "×" для умножения чисел
 - **Деление (÷)**: Нажмите кнопку "÷" для деления чисел
+</div>
 
 ### Дополнительные функции
+<div class="function">
 - **ln<i>x</i>**: Вычисляет натуральный логарифм числа
 - **y<sup>x</sup>**: Возводит число y в степень x
 - **|x|**: Вычисляет модуль (абсолютное значение) числа
+</div>
 
 ## Как пользоваться калькулятором
 
@@ -58,78 +62,4 @@
 <div class="features-block">
     <ul>
         <li><strong>Кнопка C</strong>: Очищает все введенные данные</li>
-        <li><strong>Десятичная точка (.)</strong>: Используется для ввода дробных чисел</li>
-    </ul>
-</div>
-
-## Советы по использованию
-<div class="tips-block">
-    <ul>
-        <li>При делении на ноль калькулятор покажет ошибку</li>
-        <li>Для исправления ошибки ввода используйте кнопку C</li>
-    </ul>
-</div>
-
-## Поддержка
-<div class="support-block">
-    <p>При возникновении проблем с использованием калькулятора, пожалуйста, обратитесь к разработчику.</p>
-</div>
-
-<style>
-    body {
-        font-family: 'Roboto', sans-serif;
-        line-height: 1.6;
-        color: #333;
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 20px;
-    }
-    
-    h1 {
-        color: #2196F3;
-        border-bottom: 2px solid #2196F3;
-        padding-bottom: 10px;
-    }
-    
-    h2 {
-        color: #1976D2;
-        margin-top: 30px;
-    }
-    
-    h3 {
-        color: #1565C0;
-    }
-    
-    .instruction-block, .function-block, .features-block, .tips-block, .support-block {
-        background: #E3F2FD;
-        padding: 15px 20px;
-        border-radius: 8px;
-        margin: 15px 0;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    
-    .function-block {
-        background: #E8EAF6;
-        margin-left: 20px;
-    }
-    
-    .tips-block {
-        background: #FFF3E0;
-    }
-    
-    .support-block {
-        background: #E8F5E9;
-    }
-    
-    ul {
-        padding-left: 20px;
-    }
-    
-    li {
-        margin: 8px 0;
-    }
-    
-    strong {
-        color: #1565C0;
-    }
-</style>
+        <li><strong>Десятичная точка (.)</strong>: Используется для ввода дробных чисел
