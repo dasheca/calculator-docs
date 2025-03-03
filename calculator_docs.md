@@ -1,15 +1,14 @@
-<div class="instruction-block">
+
 <h1>Калькулятор - Руководство пользователя<h1>
-</div>
 
 
-<div class="instruction-block">
+
 <h2>Основные функции<h2>
-</div> 
 
-<div class="instruction-block">
+
+
 <h3>Арифметические операции<h3>
-</div>
+
 
 <div class="function">
 - **Сложение (+)**: Нажмите кнопку "+" для сложения чисел
@@ -18,9 +17,8 @@
 - **Деление (÷)**: Нажмите кнопку "÷" для деления чисел
 </div>
 
-<div class="instruction-block">
 <h3>Дополнительные функции<h3>
-</div>
+
 
 <div class="function">
 - **ln<i>x</i>**: Вычисляет натуральный логарифм числа
@@ -28,9 +26,9 @@
 - **|x|**: Вычисляет модуль (абсолютное значение) числа
 </div>
 
-<div class="instruction-block">
+
 <h2> Как пользоваться калькулятором<h2>
-</div>
+
 
 
 <div class="instruction-block">
@@ -73,9 +71,8 @@
 </div>
 
 
-<div class="instruction-block">
 <h2>Дополнительные возможности<h2>
-</div>
+
 
 <div class="features-block">
     <ul>
